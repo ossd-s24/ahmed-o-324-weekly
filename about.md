@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like food because it gives me pleasure, and a sense that I have a "thing" that I can call myself an "enthusiast" on, which makes me feel special and cool.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also like people. Conversing with, laughing at and with, crying for, on and with, philosophizing with, and staring at. Them. Creepily. 8-).
 
